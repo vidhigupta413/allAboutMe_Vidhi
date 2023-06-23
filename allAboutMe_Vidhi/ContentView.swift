@@ -41,7 +41,7 @@ struct ContentView: View {
                 HStack {
                     Button("Learn more") {
                         image = "vidhi"
-                        aboutMeText = " Favorite food: sushi🍣 \n Favorite drink: boba🧋\n Favorite color: purple💜 \n Favorite hobby: flute/music 🎶"
+                        aboutMeText = " Favorite food: sushi🍣 \n Favorite drink: boba🧋\n Favorite color: purple💜 \n Favorite hobby: flute/music! 🎶"
                         
                     }
                     .tint(Color.purple)
